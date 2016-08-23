@@ -1,0 +1,14 @@
+layout_spectrum: 0.788992
+color:
+  saturation: 0.7369428
+  lightness: 0.6605365
+  brandStrength: 0.7513942
+  brandColors:
+    - '#090E11'
+    - '#8C8D94'
+    - '#B63C38'
+    - '#3977AD'
+    - '#D0CED6'
+  rhythmicContrast: 0.8396292
+typography_spectrum: 0.6174781
+name: 'Beer, Bikes and Fireworks'
